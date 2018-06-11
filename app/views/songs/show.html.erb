@@ -20,4 +20,4 @@
 </h2>
 
 <p><%= link_to "Edit", edit_song_path(@song) %></p>
-<p><%= link_to "Delete", song_path, method: :destroy%></p>
+<%= button_to 'Delete', song, :method => :delete %>
