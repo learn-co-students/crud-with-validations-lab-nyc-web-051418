@@ -1,0 +1,5 @@
+Song.create(title: 'Song', released: true, release_year: 1998, genre: "funk")
+Song.create(title: 'mellow', released: true, release_year: 2010, genre: "traditional")
+Song.create(title: 'shoddy', released: true, release_year: 2003, genre: "black metal")
+Song.create(title: 'boys and towns', released: true, release_year: 1997, genre: "country")
+Song.create(title: 'friends and family', released: true, release_year: 1998, genre: "rap")
